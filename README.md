@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sonamtamang45
-- 👀 I’m interested in ...Startups, investment,every sector of business
-- 🌱 I’m currently learning ...html,css,phython,c,c+,javascript;
-- 💞️ I’m looking to collaborate on ...full stack developer for my startup.i am actually in marketing.
+- 🌱 I’m currently learning javascript;
 - 📫 How to reach me ...contact me 95tmgson@gmail.com
 
 <!---
